@@ -1,0 +1,16 @@
+C:\Users\hp-hp\source\repos\ECommerce.Logic\bin\Debug\netcoreapp3.1\ECommerce.Logic.deps.json
+C:\Users\hp-hp\source\repos\ECommerce.Logic\bin\Debug\netcoreapp3.1\ECommerce.Logic.dll
+C:\Users\hp-hp\source\repos\ECommerce.Logic\bin\Debug\netcoreapp3.1\ECommerce.Logic.pdb
+C:\Users\hp-hp\source\repos\ECommerce.Logic\bin\Debug\netcoreapp3.1\ECommerce.Context.dll
+C:\Users\hp-hp\source\repos\ECommerce.Logic\bin\Debug\netcoreapp3.1\ECommerce.Models.dll
+C:\Users\hp-hp\source\repos\ECommerce.Logic\bin\Debug\netcoreapp3.1\ECommerce.Context.pdb
+C:\Users\hp-hp\source\repos\ECommerce.Logic\bin\Debug\netcoreapp3.1\ECommerce.Models.pdb
+C:\Users\hp-hp\source\repos\ECommerce.Logic\obj\Debug\netcoreapp3.1\ECommerce.Logic.csprojAssemblyReference.cache
+C:\Users\hp-hp\source\repos\ECommerce.Logic\obj\Debug\netcoreapp3.1\ECommerce.Logic.AssemblyInfoInputs.cache
+C:\Users\hp-hp\source\repos\ECommerce.Logic\obj\Debug\netcoreapp3.1\ECommerce.Logic.AssemblyInfo.cs
+C:\Users\hp-hp\source\repos\ECommerce.Logic\obj\Debug\netcoreapp3.1\ECommerce.Logic.csproj.CoreCompileInputs.cache
+C:\Users\hp-hp\source\repos\ECommerce.Logic\obj\Debug\netcoreapp3.1\ECommerce.Logic.csproj.CopyComplete
+C:\Users\hp-hp\source\repos\ECommerce.Logic\obj\Debug\netcoreapp3.1\ECommerce.Logic.dll
+C:\Users\hp-hp\source\repos\ECommerce.Logic\obj\Debug\netcoreapp3.1\ECommerce.Logic.pdb
+C:\Users\hp-hp\source\repos\ECommerce.Logic\bin\Debug\netcoreapp3.1\ECommerce.repository.dll
+C:\Users\hp-hp\source\repos\ECommerce.Logic\bin\Debug\netcoreapp3.1\ECommerce.repository.pdb

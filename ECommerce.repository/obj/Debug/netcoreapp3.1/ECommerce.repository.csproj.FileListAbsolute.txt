@@ -1,0 +1,14 @@
+C:\Users\hp-hp\source\repos\ECommerce.repository\bin\Debug\netcoreapp3.1\ECommerce.repository.deps.json
+C:\Users\hp-hp\source\repos\ECommerce.repository\bin\Debug\netcoreapp3.1\ECommerce.repository.dll
+C:\Users\hp-hp\source\repos\ECommerce.repository\bin\Debug\netcoreapp3.1\ECommerce.repository.pdb
+C:\Users\hp-hp\source\repos\ECommerce.repository\obj\Debug\netcoreapp3.1\ECommerce.repository.csprojAssemblyReference.cache
+C:\Users\hp-hp\source\repos\ECommerce.repository\obj\Debug\netcoreapp3.1\ECommerce.repository.AssemblyInfoInputs.cache
+C:\Users\hp-hp\source\repos\ECommerce.repository\obj\Debug\netcoreapp3.1\ECommerce.repository.AssemblyInfo.cs
+C:\Users\hp-hp\source\repos\ECommerce.repository\obj\Debug\netcoreapp3.1\ECommerce.repository.csproj.CoreCompileInputs.cache
+C:\Users\hp-hp\source\repos\ECommerce.repository\obj\Debug\netcoreapp3.1\ECommerce.repository.dll
+C:\Users\hp-hp\source\repos\ECommerce.repository\obj\Debug\netcoreapp3.1\ECommerce.repository.pdb
+C:\Users\hp-hp\source\repos\ECommerce.repository\bin\Debug\netcoreapp3.1\ECommerce.Context.dll
+C:\Users\hp-hp\source\repos\ECommerce.repository\bin\Debug\netcoreapp3.1\ECommerce.Models.dll
+C:\Users\hp-hp\source\repos\ECommerce.repository\bin\Debug\netcoreapp3.1\ECommerce.Context.pdb
+C:\Users\hp-hp\source\repos\ECommerce.repository\bin\Debug\netcoreapp3.1\ECommerce.Models.pdb
+C:\Users\hp-hp\source\repos\ECommerce.repository\obj\Debug\netcoreapp3.1\ECommerce.repository.csproj.CopyComplete

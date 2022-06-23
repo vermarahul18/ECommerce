@@ -1,0 +1,9 @@
+C:\Users\hp-hp\source\repos\ECoomerce.Repository\bin\Debug\netcoreapp3.1\ECommerce.Repository.deps.json
+C:\Users\hp-hp\source\repos\ECoomerce.Repository\bin\Debug\netcoreapp3.1\ECommerce.Repository.dll
+C:\Users\hp-hp\source\repos\ECoomerce.Repository\bin\Debug\netcoreapp3.1\ECommerce.Repository.pdb
+C:\Users\hp-hp\source\repos\ECoomerce.Repository\obj\Debug\netcoreapp3.1\ECommerce.Repository.csprojAssemblyReference.cache
+C:\Users\hp-hp\source\repos\ECoomerce.Repository\obj\Debug\netcoreapp3.1\ECommerce.Repository.AssemblyInfoInputs.cache
+C:\Users\hp-hp\source\repos\ECoomerce.Repository\obj\Debug\netcoreapp3.1\ECommerce.Repository.AssemblyInfo.cs
+C:\Users\hp-hp\source\repos\ECoomerce.Repository\obj\Debug\netcoreapp3.1\ECommerce.Repository.csproj.CoreCompileInputs.cache
+C:\Users\hp-hp\source\repos\ECoomerce.Repository\obj\Debug\netcoreapp3.1\ECommerce.Repository.dll
+C:\Users\hp-hp\source\repos\ECoomerce.Repository\obj\Debug\netcoreapp3.1\ECommerce.Repository.pdb

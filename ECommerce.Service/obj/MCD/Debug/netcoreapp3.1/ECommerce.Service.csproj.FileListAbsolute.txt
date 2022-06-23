@@ -1,0 +1,16 @@
+C:\Users\hp-hp\source\repos\ECommerce.Service\bin\MCD\Debug\netcoreapp3.1\ECommerce.Service.deps.json
+C:\Users\hp-hp\source\repos\ECommerce.Service\bin\MCD\Debug\netcoreapp3.1\ECommerce.Service.dll
+C:\Users\hp-hp\source\repos\ECommerce.Service\bin\MCD\Debug\netcoreapp3.1\ECommerce.Service.pdb
+C:\Users\hp-hp\source\repos\ECommerce.Service\bin\MCD\Debug\netcoreapp3.1\ECommerce.Context.dll
+C:\Users\hp-hp\source\repos\ECommerce.Service\bin\MCD\Debug\netcoreapp3.1\ECommerce.Logic.dll
+C:\Users\hp-hp\source\repos\ECommerce.Service\bin\MCD\Debug\netcoreapp3.1\ECommerce.Models.dll
+C:\Users\hp-hp\source\repos\ECommerce.Service\bin\MCD\Debug\netcoreapp3.1\ECommerce.Logic.pdb
+C:\Users\hp-hp\source\repos\ECommerce.Service\bin\MCD\Debug\netcoreapp3.1\ECommerce.Models.pdb
+C:\Users\hp-hp\source\repos\ECommerce.Service\bin\MCD\Debug\netcoreapp3.1\ECommerce.Context.pdb
+C:\Users\hp-hp\source\repos\ECommerce.Service\obj\MCD\Debug\netcoreapp3.1\ECommerce.Service.csprojAssemblyReference.cache
+C:\Users\hp-hp\source\repos\ECommerce.Service\obj\MCD\Debug\netcoreapp3.1\ECommerce.Service.AssemblyInfoInputs.cache
+C:\Users\hp-hp\source\repos\ECommerce.Service\obj\MCD\Debug\netcoreapp3.1\ECommerce.Service.AssemblyInfo.cs
+C:\Users\hp-hp\source\repos\ECommerce.Service\obj\MCD\Debug\netcoreapp3.1\ECommerce.Service.csproj.CoreCompileInputs.cache
+C:\Users\hp-hp\source\repos\ECommerce.Service\obj\MCD\Debug\netcoreapp3.1\ECommerce.Service.csproj.CopyComplete
+C:\Users\hp-hp\source\repos\ECommerce.Service\obj\MCD\Debug\netcoreapp3.1\ECommerce.Service.dll
+C:\Users\hp-hp\source\repos\ECommerce.Service\obj\MCD\Debug\netcoreapp3.1\ECommerce.Service.pdb
